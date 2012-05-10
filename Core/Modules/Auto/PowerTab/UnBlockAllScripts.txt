@@ -1,0 +1,13 @@
+# paste this code into a PowerSHell session to unblock all Powertab script files
+
+function Unblock-AllScripts ($path = (pwd)){
+  [void][System.Reflection.Assembly]::LoadFile("$path\ntfs.dll")
+  ls *.ps1 |% {
+    $Unblocked = &{trap{$false;continue}
+     (New-Object NTFS.FileStreams($_.fullname))['Zone.Identifier'].delete()
+    }
+    $_ | select fullname,@{n='Unblocked';e={$Unblocked}}
+  } | ft
+}
+
+Unblock-AllScripts
