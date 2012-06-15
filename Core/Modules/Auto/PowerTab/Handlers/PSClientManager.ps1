@@ -166,9 +166,9 @@ Register-TabExpansion "Remove-ClientFeature" $RemoveClientFeatureHandler -Type "
 # BgNVBAYTAlVTMRcwFQYDVQQKEw5WZXJpU2lnbiwgSW5jLjErMCkGA1UEAxMiVmVy
 # aVNpZ24gVGltZSBTdGFtcGluZyBTZXJ2aWNlcyBDQQIQeaKlhfnRFUIT2bg+9raN
 # 7TAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG
-# 9w0BCQUxDxcNMTIwNjE1MTgwMDM4WjAjBgkqhkiG9w0BCQQxFgQUuMctRxR+m1/W
-# zrli6xZBV9UZgrcwDQYJKoZIhvcNAQEBBQAEgYCB/gwDCMhad4mEvInWIVmWJcPA
-# nafHMzZLXxlOU6la74Axt+fqW79rU3DFGAmy6UrkW7Bcfq5+jJqvyN6aL+BUVLFq
-# /997mGcd2ixHVICaKJClHxljJHx1s93n+IijSOFKgRH2CEfmblXOKA8GxsqgSF+e
-# Bs1QxmpuyEbiUJVJOQ==
+# 9w0BCQUxDxcNMTIwNjE1MTgwNzI0WjAjBgkqhkiG9w0BCQQxFgQUuMctRxR+m1/W
+# zrli6xZBV9UZgrcwDQYJKoZIhvcNAQEBBQAEgYAtLkdimDLvQs2tNtTDmuZW1h79
+# UuLpW3v6RvAJTaentqH4cBBY6+3k+fcIWlv9IPIYa6onNirPdT1BRpaCuQpozIIO
+# jYUEgZhwkCR119kEvu5ha9dOx45chLS/69dNTssixV9V5nBO9AbMKBltpoTAFyuW
+# kxVyyeSb1LGahvTb5w==
 # SIG # End signature block

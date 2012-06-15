@@ -159,9 +159,9 @@ Set-AuthenticodeSignature -FilePath $FilePath -Certificate $cert -TimestampServe
 # BgNVBAYTAlVTMRcwFQYDVQQKEw5WZXJpU2lnbiwgSW5jLjErMCkGA1UEAxMiVmVy
 # aVNpZ24gVGltZSBTdGFtcGluZyBTZXJ2aWNlcyBDQQIQeaKlhfnRFUIT2bg+9raN
 # 7TAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG
-# 9w0BCQUxDxcNMTIwNjE1MTc1NDIxWjAjBgkqhkiG9w0BCQQxFgQUs+UQ/uBLNstp
-# Ya2uT7esqj+cNDAwDQYJKoZIhvcNAQEBBQAEgYAgeyLx6FFFymRlQrBaXdJYQA4G
-# 1ce2uPmvjCIGElvEnKK3A9j77ZKP9Nkby9JxYbUZRW57ek5f0NneUu1+Jo+mzKIn
-# u2jnyFJ+CSBxKK3/66E7SG+5qeclg61DTSmObVdoF8ycUpstSmiCAkwD4wsqe+1x
-# BHq93ub6GJcjckziyg==
+# 9w0BCQUxDxcNMTIwNjE1MTgwNzIyWjAjBgkqhkiG9w0BCQQxFgQUs+UQ/uBLNstp
+# Ya2uT7esqj+cNDAwDQYJKoZIhvcNAQEBBQAEgYAi7xD3NORHjM2TyRkOqhege6EM
+# QTm9iQ7v0FE8jWkoCmsKdjrG5yAsFeMcsR8cvrBq+FjZRSEFuISYackElx1RmzMX
+# 6Mt76IqPk5M3NlD9NWmBjavk2sflk/cgsJICgYbmbr5YiUs7HsimIaEoSKn6ffg+
+# nVkQSh5OFEcXz+x/Wg==
 # SIG # End signature block
